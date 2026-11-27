@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile-banner(1).svg" alt="Vishal Kanojiya — Computer Engineering Student" width="100%">
+<img src="profile-banner.svg" alt="Vishal Kanojiya — Computer Engineering Student" width="100%">
 
 # Vishal Kanojiya
 
