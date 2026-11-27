@@ -1,5 +1,5 @@
 <!-- Profile README for github.com/vishalk1520 --><p align="center">
-  <img src="https://raw.githubusercontent.com/vishalk1520/vishalk1520/main/assets/profile-banner.svg" alt="Vishal Kanojiya — Building systems. Learning by shipping real projects." width="100%" />
+  <img src="https://raw.githubusercontent.com/vishalk1520/vishalk1520/main/profile-banner.svg" alt="Vishal Kanojiya — Building systems. Learning by shipping real projects." width="100%" />
 </p><p align="center">
   <a href="mailto:vishalkanojiya1512@gmail.com"><img src="https://img.shields.io/badge/EMAIL-181818?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/vishalk1520"><img src="https://img.shields.io/badge/GITHUB-181818?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
