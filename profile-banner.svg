@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Vishal Kanojiya — Software Engineer in the making</title>
+<desc id="desc">Minimal dark banner with abstract terminal-inspired geometry and the initials VK.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090b10"/><stop offset="1" stop-color="#171b23"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".055" stroke-width="1"/></pattern>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7d8795" stop-opacity="0"/><stop offset=".5" stop-color="#aeb7c4" stop-opacity=".65"/><stop offset="1" stop-color="#7d8795" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+<circle cx="1030" cy="152" r="155" fill="none" stroke="#c3ccd8" stroke-opacity=".12"/>
+<circle cx="1030" cy="152" r="112" fill="none" stroke="#c3ccd8" stroke-opacity=".16"/>
+<circle cx="1030" cy="152" r="70" fill="none" stroke="#c3ccd8" stroke-opacity=".2"/>
+<path d="M900 255L1030 48L1160 255" fill="none" stroke="#c3ccd8" stroke-opacity=".18" stroke-width="1.4"/>
+<path d="M0 270H1200" stroke="url(#line)" stroke-width="1"/>
+<text x="74" y="82" fill="#a7b0bd" font-family="monospace" font-size="15" letter-spacing="4">VISHAL KANOJIYA / PORTFOLIO</text>
+<text x="70" y="166" fill="#f2f4f7" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">Building systems.</text>
+<text x="74" y="211" fill="#aeb7c4" font-family="Arial, Helvetica, sans-serif" font-size="25">Learning by shipping real projects.</text>
+<text x="75" y="284" fill="#8993a1" font-family="monospace" font-size="14" letter-spacing="2">JAVA · PYTHON · BACKEND · APPLIED AI</text>
+<text x="1030" y="176" text-anchor="middle" fill="#f2f4f7" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700">VK</text>
+</svg>
